@@ -16,7 +16,7 @@ The analysis was done in Python using Visual Studio Code with GitHub Copilot to 
 - Open the script in your IDE, update the dataset path if needed, and run it to reproduce the results.
 
 #Author
-Sana Jabeen 
+-Sana Jabeen 
 www.linkedin.com/in/sana-jabeen-a4a581305
 
 Feel free to check it out, give feedback, or fork the repo!
